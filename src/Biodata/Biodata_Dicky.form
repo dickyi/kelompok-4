@@ -100,7 +100,7 @@
             </Property>
             <Property name="horizontalAlignment" type="int" value="0"/>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/Biodata/1w.jpg"/>
+              <Image iconType="3" name="/Foto/1w.jpg"/>
             </Property>
             <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
               <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
@@ -121,7 +121,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel4">
           <Properties>
-            <Property name="text" type="java.lang.String" value="ALAMAT                      : KEC.SUMBER JAYA, KAB.LAMPUNG BARAT"/>
+            <Property name="text" type="java.lang.String" value="ALAMAT                      : Kec.Sumber Jaya, Kab.Lampung Barat"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel5">

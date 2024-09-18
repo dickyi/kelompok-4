@@ -42,14 +42,14 @@ public class Biodata_Dicky extends javax.swing.JFrame {
         jLabel1.setBackground(new java.awt.Color(255, 255, 153));
         jLabel1.setForeground(new java.awt.Color(204, 0, 0));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Biodata/1w.jpg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Foto/1w.jpg"))); // NOI18N
         jLabel1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
         jLabel2.setText("NAMA                         : Dicky Irawan");
 
         jLabel3.setText("NIM                             : 202357201054");
 
-        jLabel4.setText("ALAMAT                      : KEC.SUMBER JAYA, KAB.LAMPUNG BARAT");
+        jLabel4.setText("ALAMAT                      : Kec.Sumber Jaya, Kab.Lampung Barat");
 
         jLabel5.setText("LINK GITHUB                : https://github.com/dickyi");
 
